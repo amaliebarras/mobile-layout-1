@@ -1,3 +1,3 @@
 day 1 iron yard exercise
 
-deployed [here!](sedate-tongue.surge.sh)
+deployed [here!](https://sedate-tongue.surge.sh)
