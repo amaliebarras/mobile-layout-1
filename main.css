@@ -1,0 +1,185 @@
+/*CSS FOR PAGE 1*/
+
+header {
+	background-color: #410004;
+	color: white;
+	height: 60px;
+}
+
+a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+article {
+	border-bottom: solid 1px;
+}
+
+.bigbrightred {
+	background-color: #E50109;
+	color: white;
+	height: 385px;
+}
+
+.toppadding {
+	height: 64px;
+}
+
+.DarkRed {
+	background-color: #410004;
+	color: white;
+	height: 225px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.bottompadding {
+	height: 32px;
+}
+
+.darkestredfooter {
+	background-color: #1A0001;
+	color: white;
+	height: 917px;
+}
+
+aside {
+	background-color: #900007;
+	color: white;
+	height: 622px;
+}
+
+.salmon-box {
+	height: 412px;
+	margin-top: 132px;
+	margin-left: 32px;
+	margin-right: 32px;
+	margin-bottom: 70px;
+	background-color: #CF6969;
+	color: white;
+}
+
+.darkestredfooter2 {
+	background-color: #1A0001;
+	color: white;
+	height: 204px;
+}
+
+/*CSS FOR PAGE 2*/
+
+header {
+	background-color: #222F3E;
+	color: white;
+	padding: 1em;
+	height: 1em;
+}
+
+.bigbrightblue {
+	background-color: #1C78CC;
+	color: white;
+	height: 180px;
+	padding-top: 98px;
+	padding-bottom: 37px;
+}
+
+.homepagebutton {
+	background-color: #1C78CC;
+	border: 3px solid #FFFFFF;
+	color: white;
+	height: 58px;
+	width: 300px;
+	margin: auto;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.firstrandomdiv {
+	background-color: #B1D8F5;
+	height: 42px;
+	width: 300px;
+	margin: 10px auto 11px auto;
+}
+
+.secondrandomdiv {
+	background-color: #FFFFFF;
+	height: 31px;
+	width: 169px;
+	margin: 11px auto 0px auto;
+}
+
+.bumper {
+	height: 40px;
+}
+
+#blue {
+	background-color: #222F3E;
+	height: 44px;
+}
+
+#tiny {
+	height: 8px;
+}
+
+#bottom {
+	height: 24px;
+}
+
+.page2padding {
+	height: 24px;
+}
+
+.bluearticle {
+	height: 136px;
+	background-color: #1C78CC;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+article {
+	border: none;
+}
+
+.grey-aside {
+	background-color: #28384B;
+	padding: 24px 24px 24px 24px;
+	margin-top: 24px;
+	height: 372px;
+}
+
+.grey-box {
+	height: 373px;
+	background-color: #7D8B9A;
+}
+
+.content-blocks{
+	margin: 10px;
+}
+
+.grey-block{
+	height: 108px;
+	background-color: #6C797A;
+	margin: 30px;
+}
+
+#large{
+	height: 273px;
+	background-color: #6C797A;
+	margin: 30px;
+}
+
+.paddedbluebumper {
+	height: 20px;
+	margin-top: 41px;
+	margin-bottom: 41px;
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: #28384B;
+}
+
+footer {
+	height: 44px;
+	background-color: #6C797A;
+	border: solid 14px black;
+	padding-top: 4px;
+}
